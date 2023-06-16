@@ -82,4 +82,3 @@ No modules.
 ## License
 
 Apache 2 Licensed. For more information please see [LICENSE](https://github.com/data-platform-hq/terraform-azurerm-linux-web-app/tree/main/LICENSE)
-
